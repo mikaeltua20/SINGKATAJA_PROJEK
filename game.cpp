@@ -32,6 +32,5 @@ int main() {
     }
 
     endwin();               
-    printf("Kamu memilih: %s\n", items[sel]);
     return 0;
 }
